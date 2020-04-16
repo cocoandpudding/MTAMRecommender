@@ -140,6 +140,10 @@ data/raw_data/yoochoose/dataset-README.txt
 data/raw_data/taobaoapp/tianchi_mobile_recommend_train_user.csv
 data/raw_data/taobaoapp/tianchi_mobile_recommend_train_item.csv
 data/log_data/
-data/orgin_data/
+data/orgin_data/beauty.csv
+data/orgin_data/movielen.csv
+data/orgin_data/taobaoapp.csv
+data/orgin_data/yoochoose.csv
+
 train_process_test.py
 *.dat
