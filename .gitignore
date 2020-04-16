@@ -142,3 +142,4 @@ data/raw_data/taobaoapp/tianchi_mobile_recommend_train_item.csv
 data/log_data/
 data/orgin_data/
 train_process_test.py
+*.dat
