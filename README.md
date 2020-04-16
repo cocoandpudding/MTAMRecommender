@@ -7,6 +7,12 @@ For IJCAI2020<br/>
 - pandas 0.20.3
 - tensorflow 1.14.0
 ## Datasets
-**we provide small datasets:MovieLens 1 Million (ml-1m)**
-**
+**we provide small datasets:MovieLens 1 Million (ml-1m)**<br/>
+### raw_data
+- movies.dat
+- ratings.dat
+### origin_data
+- movielens.csv
+## training_testing_data
+
 
