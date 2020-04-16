@@ -137,7 +137,6 @@ data/raw_data/ml-20m/ratings.csv
 data/raw_data/ml-20m/README.txt
 data/raw_data/ml-20m/tags.csv
 data/raw_data/yoochoose/dataset-README.txt
-*.dat
 data/raw_data/taobaoapp/tianchi_mobile_recommend_train_user.csv
 data/raw_data/taobaoapp/tianchi_mobile_recommend_train_item.csv
 data/log_data/
