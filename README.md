@@ -8,11 +8,11 @@ For IJCAI2020<br/>
 - tensorflow 1.14.0
 ## Datasets
 **we provide small datasets:MovieLens 1 Million (ml-1m)**<br/>
-**raw_data**<br/>
+#### raw_data
 - movies.dat
 - ratings.dat
-**origin_data**<br/>
+#### origin_data
 - movielens.csv
-**training_testing_data**<br/>
+#### training_testing_data
 
 
