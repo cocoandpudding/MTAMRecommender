@@ -104,7 +104,7 @@ venv.bak/
 .mypy_cache/
 
 #ignore this file
-/data/training_testing_data/
+#/data/training_testing_data/
 test.py
 
 1118BSBE_adam_blocks1_tcn-20.meta
