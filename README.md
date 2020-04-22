@@ -1,5 +1,5 @@
 # MTAMRecommender
-For IJCAI2020<br/>
+The paper has submitted to CIKM2020<br/>
 **please cite our paper if you use our codes.Thanks**
 ## Environment Settings
 - python 3.6.3
