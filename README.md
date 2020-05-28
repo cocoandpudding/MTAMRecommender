@@ -1,13 +1,13 @@
 # MTAMRecommender
-The paper has submitted to CIKM2020<br/>
-**please cite our paper if you use our codes.Thanks**
+The paper has been submitted to CIKM2020<br/>
+**Please cite our paper if you use our codes.Thanks.**
 ## Environment Settings
 - python 3.6.3
 - numpy 1.18.1
 - pandas 0.20.3
 - tensorflow 1.14.0
 ## Datasets
-**we provide small datasets:MovieLens 1 Million (ml-1m)**<br/>
+**we provide a small dataset: MovieLens 1 Million (ml-1m)**<br/>
 #### raw_data
 - movies.dat
 - ratings.dat
